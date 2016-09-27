@@ -1,0 +1,58 @@
+﻿
+.topImage {
+  background-color: #fff;
+  width: 20px;
+  padding-top: 170px;
+  height: 850px;
+  background-image: 
+  
+  background-repeat: no-repeat;
+  background-position:50% 80%;
+}
+
+.icon {
+  z-index: 2;
+  position: relative;
+  left: 30px;
+  top: 30px;
+}
+
+.smallerImage {
+  align: center;
+  top: -20px;
+  left: 20px;
+  background-color: white;
+  width: 500px;
+};
+}
+#wrapper {
+  color: green;
+  font-family: 'Changa One', sans-serif;
+  text-align:center;
+  margin: 15px 0;
+  font-size: 1.75em;
+  font-weight: normal;
+  line-height: 0.8em;
+}
+.leftBox {
+    -moz-box-sizing: border-box;
+         box-sizing: border-box;
+    align-content: left;
+    width: 125px;
+    height: 250px;
+    margin: 20px;
+    padding: 20px;
+    border-width: 10px;
+}
+
+#Facebook {
+  position: fixed;
+  bottom: 30px;
+  right: 0;
+  width: 100px;
+  background-color: white;
+}
+
+
+
+
