@@ -1,0 +1,72 @@
+﻿*, *:after, *:before {
+    box-sizing: border-box;
+}
+
+img.downtown {
+    height: 325px;
+    overflow: hidden;
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+ 
+ div.logo img {
+    position: relative;
+    border-radius: 60%;
+    height: 90px;
+    top: -50px;
+    left: 140px;
+    border: 5px solid white;
+    margin-bottom: -5%;
+
+ div h4 {
+    margin-bottom: -2%;
+    margin-right: 20px; 
+    margin-left: 140px;
+    overflow: hidden;
+    font-size: 17px; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #55565E;
+}
+ div.updates {
+    margin-top: 4%;
+    padding-left: 140px;
+    color: #a8a9b3;
+}
+div.updates p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #a8a9b3;
+}
+p.search {
+    margin-top: 40px;
+    margin-left: 140px;
+	color: #a8a9b3;
+    font-weight: bold; 
+}
+form#search {
+    margin-left: 140px;
+}
+form#search input {
+    box-shadow: -.5px -.5px #d8d9df;
+}
+ .column2 {
+     overflow: hidden;
+     margin-top: -240px;
+     margin-left: 350px;
+ }
+div.column2 p {
+    margin-top: -65px;
+    margin-left: 30px;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+}
+ div.column3 p {
+     margin-left: 300px;
+     margin-right: 0%;
+
+}
+ 
+.Dorton {
+    font-size: 8px;
+    font-style:italic;
